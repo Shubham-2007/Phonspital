@@ -1,16 +1,35 @@
-# phonspital
+# Phonspital - We care for YOU
+<img src="https://github.com/Shubham-2441/Phonspital/blob/master/Screenshot/hackin.JPG" width="600" height="300"><img src="https://github.com/Shubham-2441/Phonspital/blob/master/Screenshot/logo.png" width="300" height="300"/>
+<br><br>
+We Team <b>Pandavas</b> are making a mobile application as a part of <b>Hack In India</b>, India's National Level Hackathon. Our theme is <b>Health Care</b>.
 
-A new Flutter project.
+# Installation
 
-## Getting Started
+- Install VSCode or Android Studio
+- Setup the Flutter SDK
+- Download/Setup Emulator
+- Clone the repository
+- Run "flutter pub get" command
+- Run "flutter run" command or press F5 in VSCode
+- Ready to go 
 
-This project is a starting point for a Flutter application.
+# Our IDEA
 
-A few resources to get you started if this is your first Flutter project:
+- As we know that now-a-days health is a great concern and it is not safe to sneak out to even buy medicines or visiting the doctor without an appointment. So after looking into it and brainstorming, we got an idea to make an app which can be helpful not only in this tough time of COVID 19 but later on also.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# App FEATURES
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Locating nearby Hospitals 🏥
+- Locating nearby Pharmacies 💊
+- Booking an appointment with doctor 👨‍⚕️
+- Doctor webinars 📹
+- Medical Diagnosis ☑️
+
+# Future scope
+
+- Exercise reminder ⏰
+- Seasonal Water reminder 💧
+- Chatbot 🤖 
+- Admin Module 👑
+- Medicine reminder 💊
+- Info graphics of disease ℹ️
