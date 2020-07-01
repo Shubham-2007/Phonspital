@@ -1,5 +1,5 @@
 # Phonspital - We care for YOU
-<img src="https://github.com/Shubham-2441/Phonspital/blob/master/Screenshot/hackin.JPG" width="600" height="300"><img src="https://github.com/Shubham-2441/Phonspital/blob/master/Screenshot/logo.png" width="300" height="300"/>
+<img src="https://github.com/Shubham-2441/Phonspital/blob/master/Screenshot/hackin.JPG" width="500" height="300"><img src="https://github.com/Shubham-2441/Phonspital/blob/master/Screenshot/logo.png" width="300" height="300"/>
 <br><br>
 We Team <b>Pandavas</b> are making a mobile application as a part of <b>Hack In India</b>, India's National Level Hackathon. Our theme is <b>Health Care</b>.
 
