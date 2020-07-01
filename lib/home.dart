@@ -3,6 +3,7 @@ import 'package:phonspital/diagnosis.dart';
 import 'package:phonspital/hospital.dart';
 import 'package:phonspital/pharmacy.dart';
 import 'package:phonspital/profile.dart';
+import 'package:phonspital/webinar.dart';
 
 class Home extends StatefulWidget {
   @override
@@ -130,7 +131,12 @@ class _HomeState extends State<Home> {
             ),
             Homecard(
               image: 'assets/13.png',
-              onPressed: () {},
+              onPressed: () {
+                Navigator.push(context, MaterialPageRoute(builder: (context) {
+                  return Webinars();
+                }));
+               
+              },
               title: 'Webinars',
             ),
             Homecard(
