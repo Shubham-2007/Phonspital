@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:phonspital/apphotos.dart';
 import 'package:phonspital/home.dart';
 
 class Usersignup2 extends StatefulWidget {
@@ -120,7 +121,7 @@ class _UsersignupState extends State<Usersignup2> {
                     onPressed: () {
                        Navigator.push(context,
                               MaterialPageRoute(builder: (context) {
-                            return Home();
+                            return Appphoto1();
                           }));
                     },
                     child: Text(
